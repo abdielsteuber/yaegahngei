@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shohch.datazoo.de/sitemap.xml
